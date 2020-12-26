@@ -1,0 +1,1 @@
+docker tag 22ndtech/ndtech-code-server 22ndtech/ndtech-code-server:0.0.1

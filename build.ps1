@@ -1,0 +1,1 @@
+docker build -f .\dockerfile -t 22ndtech/ndtech-code-server .
