@@ -12,4 +12,4 @@ docker run -it `
 -v ${Env:CERTS_PATH}:/home/coder/.kube `
 -v ${ENV:GITHUB_PROJECTS}:/work `
 -v c:\data\vscode-user-data:/vscode-user-data `
---rm 22ndtech/ndtech-code-server
+--rm 22ndtech/ndtech-code-server:0.0.1
